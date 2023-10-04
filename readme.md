@@ -6,4 +6,4 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,firebase,mongodb,wordpress,shopify,woocommerce,vercel,nodejs,apache,nginx,aws,gradle,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,xampp&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
