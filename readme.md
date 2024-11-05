@@ -7,4 +7,4 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,firebase,mongodb,wordpress,woocommerce,vercel,nodejs,apache,nginx,aws,prettier&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,figma,pycharm&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
